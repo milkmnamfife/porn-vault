@@ -1,4 +1,5 @@
-name: Version
+defaults:
+  name: Version
 
 on: push
 
